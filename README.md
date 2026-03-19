@@ -1,13 +1,13 @@
-# 📱 Indoor Navigation Mobile App
+# 📱GoInn - Indoor Navigation Mobile App
 
-A modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt biztosít QR-kód alapú kiindulóponttal és intelligens útvonaltervezéssel.
+Egy modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt biztosít QR-kód alapú kiindulóponttal és intelligens útvonaltervezéssel.
 
 ---
 
 ## 🚀 Funkciók
 
 * 📍 **QR-kód alapú pozíció meghatározás**
-* 🧭 **A* algoritmus alapú útvonaltervezés**
+* 🧭 **"A*" algoritmus alapú útvonaltervezés**
 * 🗺️ **SVG-alapú térkép megjelenítés**
 * ❤️ **Kedvenc útvonalak mentése**
 * 🕘 **Korábbi útvonalak visszatöltése**
@@ -36,7 +36,7 @@ src/
  ├── screens/        # Képernyők (Login, Target, Booking, stb.)
  ├── components/     # Újrafelhasználható UI elemek
  ├── store/          # Gráf adatok (graphData.ts)
- ├── utils/          # Algoritmusok (A*)
+ ├── algorithms/     # Algoritmusok (A*)
  └── assets/         # Képek, SVG-k
 ```
 
@@ -69,15 +69,6 @@ npm start
 
 ```sh
 npm run android
-```
-
-#### iOS (ha használod)
-
-```sh
-cd ios
-pod install
-cd ..
-npm run ios
 ```
 
 ---
