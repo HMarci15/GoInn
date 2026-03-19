@@ -1,0 +1,123 @@
+# 📱 Indoor Navigation Mobile App
+
+A modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt biztosít QR-kód alapú kiindulóponttal és intelligens útvonaltervezéssel.
+
+---
+
+## 🚀 Funkciók
+
+* 📍 **QR-kód alapú pozíció meghatározás**
+* 🧭 **A* algoritmus alapú útvonaltervezés**
+* 🗺️ **SVG-alapú térkép megjelenítés**
+* ❤️ **Kedvenc útvonalak mentése**
+* 🕘 **Korábbi útvonalak visszatöltése**
+* 🏨 **Szállodai szolgáltatások integrációja**
+
+  * Szobafoglalás
+  * Gasztronómia (étlap, itallap)
+  * Programajánló (tervezett funkció)
+
+---
+
+## 🛠️ Technológiák
+
+* React Native
+* TypeScript
+* Firebase (Auth + Firestore)
+* SVG rendering
+* A* algoritmus
+
+---
+
+## 📂 Projekt struktúra (röviden)
+
+```
+src/
+ ├── screens/        # Képernyők (Login, Target, Booking, stb.)
+ ├── components/     # Újrafelhasználható UI elemek
+ ├── store/          # Gráf adatok (graphData.ts)
+ ├── utils/          # Algoritmusok (A*)
+ └── assets/         # Képek, SVG-k
+```
+
+---
+
+## ⚙️ Telepítés és futtatás
+
+### 1. Klónozás
+
+```sh
+git clone <repo-url>
+cd <project-folder>
+```
+
+### 2. Függőségek telepítése
+
+```sh
+npm install
+```
+
+### 3. Metro indítása
+
+```sh
+npm start
+```
+
+### 4. Alkalmazás futtatása
+
+#### Android
+
+```sh
+npm run android
+```
+
+#### iOS (ha használod)
+
+```sh
+cd ios
+pod install
+cd ..
+npm run ios
+```
+
+---
+
+## 🧠 Működés röviden
+
+Az alkalmazás működése:
+
+1. A felhasználó QR-kódot olvas be → ez lesz a **start pont**
+2. Kiválaszt egy célt
+3. Az alkalmazás az **A* algoritmus segítségével kiszámolja a legrövidebb útvonalat**
+4. Az útvonal egy **SVG térképen jelenik meg**
+
+---
+
+## 🔐 Jogi információ
+
+```
+Copyright (c) [2024] Horváth Marcell. All rights reserved. 
+This project is for portfolio and demonstration purposes only. 
+It may not be copied, distributed, or modified without explicit permission.
+```
+
+---
+
+## ⚠️ Megjegyzés
+
+Ez a projekt **nem open-source**, kizárólag bemutatási és portfólió célokra készült.
+
+---
+
+## 👤 Készítette
+
+**Horváth Marcell**
+
+---
+
+## ⭐ További fejlesztési lehetőségek
+
+* Mozgássérült mód finomhangolása
+* Többszintes navigáció optimalizálása
+* AI-alapú programajánló rendszer
+* iOS támogatás

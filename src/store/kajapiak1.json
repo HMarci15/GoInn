@@ -1,0 +1,506 @@
+{
+  "etlap01": {
+    "name": "Húsleves cérnametélttel",
+    "price": "1490",
+    "type": "etterem",
+    "category": "leves",
+    "orderInCategory": "1"
+  },
+  "etlap02": {
+    "name": "Jókai bableves",
+    "price": "1690",
+    "type": "etterem",
+    "category": "leves",
+    "orderInCategory": "2"
+  },
+  "etlap03": {
+    "name": "Gombakrémleves pirított zsemlekockával",
+    "price": "1590",
+    "type": "etterem",
+    "category": "leves",
+    "orderInCategory": "3"
+  },
+  "etlap04": {
+    "name": "Hideg gyümölcsleves",
+    "price": "1490",
+    "type": "etterem",
+    "category": "leves",
+    "orderInCategory": "4"
+  },
+  "etlap05": {
+    "name": "Grillezett csirkemell párolt rizzsel",
+    "price": "3490",
+    "type": "etterem",
+    "category": "szarnyas",
+    "orderInCategory": "1"
+  },
+  "etlap06": {
+    "name": "Rántott pulykamell hasábburgonyával",
+    "price": "3290",
+    "type": "etterem",
+    "category": "szarnyas",
+    "orderInCategory": "2"
+  },
+  "etlap07": {
+    "name": "Mézes-mustáros csirkenyárs",
+    "price": "3590",
+    "type": "etterem",
+    "category": "szarnyas",
+    "orderInCategory": "3"
+  },
+  "etlap08": {
+    "name": "Cigánypecsenye steakburgonyával",
+    "price": "3790",
+    "type": "etterem",
+    "category": "sertes",
+    "orderInCategory": "1"
+  },
+  "etlap09": {
+    "name": "Rántott sertéskaraj burgonyapürével",
+    "price": "3490",
+    "type": "etterem",
+    "category": "sertes",
+    "orderInCategory": "2"
+  },
+  "etlap10": {
+    "name": "Mustáros sertésszűz pirított zöldségekkel",
+    "price": "3990",
+    "type": "etterem",
+    "category": "sertes",
+    "orderInCategory": "3"
+  },
+  "etlap11": {
+    "name": "Marhapörkölt galuskával",
+    "price": "3990",
+    "type": "etterem",
+    "category": "marha",
+    "orderInCategory": "1"
+  },
+  "etlap12": {
+    "name": "Roséra sült marhasteak steakburgonyával",
+    "price": "5490",
+    "type": "etterem",
+    "category": "marha",
+    "orderInCategory": "2"
+  },
+  "etlap13": {
+    "name": "Zöldborsmártásos marharostélyos",
+    "price": "4790",
+    "type": "etterem",
+    "category": "marha",
+    "orderInCategory": "3"
+  },
+  "etlap14": {
+    "name": "BBQ marhaszegy coleslaw salátával",
+    "price": "4990",
+    "type": "etterem",
+    "category": "marha",
+    "orderInCategory": "4"
+  },
+  "etlap15": {
+    "name": "Roston sült fogas petrezselymes burgonyával",
+    "price": "4190",
+    "type": "etterem",
+    "category": "hal",
+    "orderInCategory": "1"
+  },
+  "etlap16": {
+    "name": "Lazacos tészta tejszínes kapormártással",
+    "price": "3990",
+    "type": "etterem",
+    "category": "hal",
+    "orderInCategory": "2"
+  },
+  "etlap17": {
+    "name": "Grillezett zöldségek kecskesajttal",
+    "price": "2990",
+    "type": "etterem",
+    "category": "vega",
+    "orderInCategory": "1"
+  },
+  "etlap18": {
+    "name": "Gombás rizottó parmezánnal",
+    "price": "3190",
+    "type": "etterem",
+    "category": "vega",
+    "orderInCategory": "2"
+  },
+  "etlap19": {
+    "name": "Cukkini fasírt joghurtos öntettel ",
+    "price": "2790",
+    "type": "etterem",
+    "category": "vega",
+    "orderInCategory": "3"
+  },
+  "etlap20": {
+    "name": "Mini rántott csirkefalatok krumplipürével",
+    "price": "2390",
+    "type": "etterem",
+    "category": "gyerek",
+    "orderInCategory": "1"
+  },
+  "etlap21": {
+    "name": "Tészta paradicsomszósszal és sajttal",
+    "price": "1990",
+    "type": "etterem",
+    "category": "gyerek",
+    "orderInCategory": "2"
+  },
+  "etlap22": {
+    "name": "Roston csirkemell grillezett zöldségekkel",
+    "price": "3490",
+    "type": "etterem",
+    "category": "glutenmentes",
+    "orderInCategory": "1"
+  },
+  "etlap23": {
+    "name": "Quinoasaláta fetával",
+    "price": "2790",
+    "type": "etterem",
+    "category": "glutenmentes",
+    "orderInCategory": "2"
+  },
+  "etlap24": {
+    "name": "Párolt rizs",
+    "price": "690",
+    "type": "etterem",
+    "category": "koret",
+    "orderInCategory": "1"
+  },
+  "etlap25": {
+    "name": "Steakburgonya",
+    "price": "890",
+    "type": "etterem",
+    "category": "koret",
+    "orderInCategory": "2"
+  },
+  "etlap26": {
+    "name": "Hasábburgonya",
+    "price": "790",
+    "type": "etterem",
+    "category": "koret",
+    "orderInCategory": "3"
+  },
+  "etlap27": {
+    "name": "Grillezett zöldségek",
+    "price": "990",
+    "type": "etterem",
+    "category": "koret",
+    "orderInCategory": "4"
+  },
+  "etlap28": {
+    "name": "Friss saláta",
+    "price": "890",
+    "type": "etterem",
+    "category": "koret",
+    "orderInCategory": "5"
+  },
+  "etlap29": {
+    "name": "Somlói galuska",
+    "price": "1590",
+    "type": "etterem",
+    "category": "desszert",
+    "orderInCategory": "1"
+  },
+  "etlap30": {
+    "name": "Gundel palacsinta",
+    "price": "1490",
+    "type": "etterem",
+    "category": "desszert",
+    "orderInCategory": "2"
+  },
+  "etlap31": {
+    "name": "Túró gombóc vaníliaszósszal",
+    "price": "1690",
+    "type": "etterem",
+    "category": "desszert",
+    "orderInCategory": "3"
+  },
+  "etlap32": {
+    "name": "Brownie fagylalttal",
+    "price": "1790",
+    "type": "etterem",
+    "category": "desszert",
+    "orderInCategory": "4"
+  },
+  "etlap33": {
+    "name": "Ásványvíz (szénsavas/szénsavmentes) (0.33l)",
+    "price": "590",
+    "type": "etterem",
+    "category": "mentes",
+    "orderInCategory": "1"
+  },
+  "etlap34": {
+    "name": "Coca-Cola / Fanta / Sprite (0.33l)",
+    "price": "890",
+    "type": "etterem",
+    "category": "mentes",
+    "orderInCategory": "2"
+  },
+  "etlap35": {
+    "name": "Alma- / Narancslé (0.33l)",
+    "price": "790",
+    "type": "etterem",
+    "category": "mentes",
+    "orderInCategory": "3"
+  },
+  "etlap36": {
+    "name": "Jeges tea (barack/citrom) (0.33l)",
+    "price": "890",
+    "type": "etterem",
+    "category": "mentes",
+    "orderInCategory": "4"
+  },
+  "etlap37": {
+    "name": "Tokaji Furmint (1dl)",
+    "price": "890",
+    "type": "etterem",
+    "category": "alkoholos",
+    "orderInCategory": "1"
+  },
+  "etlap38": {
+    "name": "Egri Bikavér (1dl)",
+    "price": "850",
+    "type": "etterem",
+    "category": "alkoholos",
+    "orderInCategory": "2"
+  },
+  "etlap39": {
+    "name": "Dreher világos (0.5l)",
+    "price": "990",
+    "type": "etterem",
+    "category": "alkoholos",
+    "orderInCategory": "3"
+  },
+  "itallap01": {
+    "name": "Mojito",
+    "price": "1990",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "1"
+  },
+  "itallap02": {
+    "name": "Pina Colada",
+    "price": "2190",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "2"
+  },
+  "itallap03": {
+    "name": "Aperol Spritz",
+    "price": "1890",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "3"
+  },
+  "itallap04": {
+    "name": "Cosmopolitan",
+    "price": "2190",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "4"
+  },
+  "itallap05": {
+    "name": "Tequila Sunrise",
+    "price": "2290",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "5"
+  },
+  "itallap06": {
+    "name": "Long Island Iced Tea",
+    "price": "2490",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "6"
+  },
+  "itallap07": {
+    "name": "Espresso Martini",
+    "price": "2490",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "7"
+  },
+  "itallap08": {
+    "name": "Mai Tai",
+    "price": "2390",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "8"
+  },
+  "itallap09": {
+    "name": "Cuba Libre",
+    "price": "1990",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "9"
+  },
+  "itallap10": {
+    "name": "Whiskey Sour",
+    "price": "2290",
+    "type": "bar",
+    "category": "koktel",
+    "orderInCategory": "10"
+  },
+  "itallap11": {
+    "name": "Vodka (4 cl)",
+    "price": "890",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "1"
+  },
+  "itallap12": {
+    "name": "Gin (4 cl)",
+    "price": "990",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "2"
+  },
+  "itallap13": {
+    "name": "Rum (fehér / barna) (4 cl)",
+    "price": "990",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "3"
+  },
+  "itallap14": {
+    "name": "Tequila (4 cl)",
+    "price": "1090",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "4"
+  },
+  "itallap15": {
+    "name": "Jägermeister (4 cl)",
+    "price": "1090",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "5"
+  },
+  "itallap16": {
+    "name": "Unicum (4 cl)",
+    "price": "990",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "6"
+  },
+  "itallap17": {
+    "name": "Jameson (4 cl)",
+    "price": "1290",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "7"
+  },
+  "itallap18": {
+    "name": "Baileys (4 cl)",
+    "price": "1290",
+    "type": "bar",
+    "category": "rovid",
+    "orderInCategory": "8"
+  },
+  "itallap19": {
+    "name": "Limoncello (4 cl)",
+    "price": "990",
+    "type": "bar",
+    "category": "likor",
+    "orderInCategory": "1"
+  },
+  "itallap20": {
+    "name": "Cointreau (4 cl)",
+    "price": "1190",
+    "type": "bar",
+    "category": "likor",
+    "orderInCategory": "2"
+  },
+  "itallap21": {
+    "name": "Amaretto (4 cl)",
+    "price": "1090",
+    "type": "bar",
+    "category": "likor",
+    "orderInCategory": "3"
+  },
+  "itallap22": {
+    "name": "Metaxa (4 cl)",
+    "price": "1290",
+    "type": "bar",
+    "category": "likor",
+    "orderInCategory": "4"
+  },
+  "itallap23": {
+    "name": "Paulaner búzasör (0.5l)",
+    "price": "1290",
+    "type": "bar",
+    "category": "sor",
+    "orderInCategory": "1"
+  },
+  "itallap24": {
+    "name": "Dreher világos (0.5l)",
+    "price": "990",
+    "type": "bar",
+    "category": "sor",
+    "orderInCategory": "2"
+  },
+  "itallap25": {
+    "name": "Borsodi világos (0.5l)",
+    "price": "890",
+    "type": "bar",
+    "category": "sor",
+    "orderInCategory": "3"
+  },
+  "itallap26": {
+    "name": "IPA (0.5l)",
+    "price": "1390",
+    "type": "bar",
+    "category": "sor",
+    "orderInCategory": "4"
+  },
+  "itallap27": {
+    "name": "Alkoholmentes Heineken (0.5l)",
+    "price": "890",
+    "type": "bar",
+    "category": "sor",
+    "orderInCategory": "5"
+  },
+  "itallap28": {
+    "name": "Villányi Merlot (1 dl)",
+    "price": "890",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "1"
+  },
+  "itallap29": {
+    "name": "Villányi Kékfrankos (1 dl)",
+    "price": "790",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "2"
+  },
+  "itallap30": {
+    "name": "Tokaji Furmint (1 dl)",
+    "price": "890",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "3"
+  },
+  "itallap31": {
+    "name": "Egri Bikavér (1 dl)",
+    "price": "850",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "4"
+  },
+  "itallap32": {
+    "name": "Balatoni Rosé (1 dl)",
+    "price": "820",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "5"
+  },
+  "itallap33": {
+    "name": "Rosé Fröccs (2 dl)",
+    "price": "1190",
+    "type": "bar",
+    "category": "bor",
+    "orderInCategory": "6"
+  }
+}
