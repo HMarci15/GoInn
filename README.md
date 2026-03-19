@@ -7,7 +7,7 @@ Egy modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt
 ## 🚀 Funkciók
 
 * 📍 **QR-kód alapú pozíció meghatározás**
-* 🧭 **A** * **algoritmus alapú útvonaltervezés**
+* 🧭 **A*** **algoritmus alapú útvonaltervezés**
 * 🗺️ **SVG-alapú térkép megjelenítés**
 * ❤️ **Kedvenc útvonalak mentése**
 * 🕘 **Korábbi útvonalak visszatöltése**
