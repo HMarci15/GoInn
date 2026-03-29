@@ -1,5 +1,29 @@
 # 📱GoInn - Indoor Navigation Mobile App
 
+<p align="center">
+  <img src="./screenshots/app_logo.png" alt="GoInn Logo" width="120" height="120">
+  <br>
+  <b>An intelligent indoor navigation solution powered by QR codes and A* algorithm.</b>
+  <br>
+  <br>
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android" alt="Platform">
+  <img src="https://img.shields.io/badge/Status-Demonstration-blue?style=flat-square" alt="Status">
+</p>
+ 
+ ---
+
+<details open>
+  <summary><b>🇬🇧 English Version (Click to collapse)</b></summary>
+  <br />
+
+  </details>
+
+<br />
+
+<details>
+  <summary><b>🇭🇺 Magyar leírás (Kattints a megnyitáshoz)</b></summary>
+  <br />
+
 Egy modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt biztosít QR-kód alapú kiindulóponttal és intelligens útvonaltervezéssel.
 
 ---
@@ -16,6 +40,12 @@ Egy modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt
   * Szobafoglalás
   * Gasztronómia (étlap, itallap)
   * Programajánló (tervezett funkció)
+
+  <div align="center">
+  <img src="./screenshots/screenshot1_main.png" alt="Főoldal" width="220">
+  <img src="./screenshots/screenshot2_nav.png" alt="Navigációs nézet" width="220">
+  <img src="./screenshots/screenshot3_map.png" alt="Térkép nézet" width="220">
+</div>
 
 ---
 
@@ -112,3 +142,5 @@ Ez a projekt **nem open-source**, kizárólag bemutatási és portfólió célok
 * Többszintes navigáció optimalizálása
 * AI-alapú programajánló rendszer
 * iOS támogatás
+
+</details>
