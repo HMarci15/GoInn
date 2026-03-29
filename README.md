@@ -108,7 +108,7 @@ npm run android
 
 How the application works:
 
-1. User scans a QR code → this becomes the **start point**
+1. User scans a QR code or selects a reserved room → this becomes the **start point**
 2. Selects a destination
 3. The app calculates the shortest path using the **A*** **algorithm**
 4. The route is displayed on an **SVG map**
@@ -190,7 +190,7 @@ Egy modern **React Native alapú mobilalkalmazás**, amely beltéri navigációt
 * React Native
 * TypeScript
 * Firebase (Auth + Firestore)
-* SVG rendering
+* SVG renderelés
 * A* algoritmus
 
 ---
@@ -243,10 +243,10 @@ npm run android
 
 Az alkalmazás működése:
 
-1. A felhasználó QR-kódot olvas be → ez lesz a **start pont**
+1. A felhasználó beolvas egy QR-kódot vagy választ egy lefoglalt szobát → ez lesz a **start pont**
 2. Kiválaszt egy célt
 3. Az alkalmazás az **A* algoritmus segítségével kiszámolja a legrövidebb útvonalat**
-4. Az útvonal egy **SVG térképen jelenik meg**
+4. Az útvonal megjelenik egy **SVG térképen**
 
 ---
 
