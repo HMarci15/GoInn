@@ -2,11 +2,10 @@
 
 <p align="center">
   <span style="border-radius: 10px; overflow: hidden; display: inline-block;">
-  <img src="./screenshots/app_logo.png" alt="GoInn Logo" width="120" height="120" style="display: block;">
+  <img src="./screenshots/app_logo.png" alt="GoInn Logo" width="120" height="120" style="display: block; border-radius: 10px;">
 </span>
   <br>
   <b>An intelligent indoor navigation solution powered by QR codes and A* algorithm.</b>
-  <br>
   <br>
   <!-- <img src="https://img.shields.io/badge/Platform-Android-green?style=flat-square&logo=android" alt="Platform">
   <img src="https://img.shields.io/badge/Status-Demonstration-blue?style=flat-square" alt="Status"> -->
